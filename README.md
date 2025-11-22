@@ -16,4 +16,6 @@
 <br>
 <h3 align="left">Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma)](https://github.com/LeonDev1)
+
+
